@@ -1,0 +1,7 @@
+cython
+numpy
+pandas
+requests
+sklearn
+tqdm
+wheel
